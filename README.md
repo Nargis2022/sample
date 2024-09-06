@@ -1,4 +1,4 @@
 # sample
 This is my first Git Repository.
 <br>
-Author - Nour Bahadur
+Author - Nargis Bahadur
